@@ -1,10 +1,27 @@
-body{
+#page {
   background-color: antiquewhite;
+  
 }
 
-h1 {
+.title {
   text-align: center;
   font-size: 60px;
   font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
   
+}
+
+#page-2 {
+  background-color: lightgreen;
+
+}
+
+.page-3 {
+  background-color:rgb(212, 39, 39);
+  color: bisque;
+}
+
+.page-4 {
+  background-color: brown;
+  color: yellow;
 }
